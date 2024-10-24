@@ -1,8 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="993bc7e8-47e7-4e95-b01d-8606a668e9bd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/LabTools.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backup/CSVReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backup/DataPoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backup/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backup/resources/LabTools.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabTools.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LabTools.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LabTools.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/javafx-swt.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/javafx.base.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/javafx.controls.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/javafx.fxml.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/javafx.graphics.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/javafx.media.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/javafx.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/javafx.swing.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/javafx.web.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/libdecora_sse.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/libfxplugins.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/libglass.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/libglib-lite.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/libgstreamer-lite.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/libjavafx_font.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/libjavafx_iio.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/libjfxmedia.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/libjfxmedia_avf.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/libjfxwebkit.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/libprism_common.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/libprism_es2.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/libprism_sw.dylib" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "HexeDecima"
   }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/HexeDecima/LabTools_1.0.git",
+    "accountId": "0cf1403b-1956-48b8-9891-b4d52e5785fa"
+  }
+}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
 }</component>
+  <component name="ProjectId" id="2nqhYlXeEumYTVHDYxxKl8BM6oS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.LabTools-conf.executor": "Run",
+    "Application.LabTools.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "corretto-21",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/alexandrazerner/Documents/Programming/Java/LabTools",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.general"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="LabTools-conf" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="LabTools" />
+      <module name="LabTools" />
+      <option name="VM_PARAMETERS" value="--module-path /opt/javafx-sdk/javafx-sdk-23.0.1/lib --add-modules javafx.controls,javafx.fxml,javafx.graphics,javafx.base" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="993bc7e8-47e7-4e95-b01d-8606a668e9bd" name="Changes" comment="" />
+      <created>1729704377668</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729704377668</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
 </project>
