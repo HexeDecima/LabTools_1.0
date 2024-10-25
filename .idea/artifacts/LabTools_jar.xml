@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="LabTools:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LabTools_jar</output-path>
+    <root id="archive" name="LabTools.jar">
+      <element id="module-output" name="LabTools" />
+      <element id="extracted-dir" path="/opt/javafx-sdk/javafx-sdk-23.0.1/lib/javafx-swt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/javafx-sdk/javafx-sdk-23.0.1/lib/javafx.base.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/javafx-sdk/javafx-sdk-23.0.1/lib/javafx.controls.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/javafx-sdk/javafx-sdk-23.0.1/lib/javafx.fxml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/javafx-sdk/javafx-sdk-23.0.1/lib/javafx.graphics.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/javafx-sdk/javafx-sdk-23.0.1/lib/javafx.media.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/javafx-sdk/javafx-sdk-23.0.1/lib/javafx.swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/javafx-sdk/javafx-sdk-23.0.1/lib/javafx.web.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+    </root>
+  </artifact>
+</component>

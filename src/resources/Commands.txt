@@ -1,0 +1,46 @@
+javac \
+    --module-path /opt/javafx-sdk/javafx-sdk-23.0.1/lib \
+    --add-modules javafx.controls,javafx.fxml,javafx.graphics,javafx.base \
+    LabTools.java DataPoint.java CSVReader.java
+
+java \
+  --module-path /opt/javafx-sdk/javafx-sdk-23.0.1/lib \
+  --add-modules javafx.controls,javafx.fxml,javafx.graphics,javafx.base \
+  -cp . \
+  LabTools
+
+jar --create --file ../LabTools.jar --manifest META-INF/MANIFEST.MF -C ../out/production/LabTools .
+
+java \
+    --module-path /opt/javafx-sdk/javafx-sdk-23.0.1/lib \
+    --add-modules javafx.controls,javafx.fxml,javafx.graphics,javafx.base \
+    -jar ../LabTools.jar
+
+/Library/Java/JavaVirtualMachines/jdk-23.jdk/Contents/Home/bin/jlink \
+    --module-path /opt/javafx-sdk/javafx-sdk-23.0.1/lib:/Library/Java/JavaVirtualMachines/jdk-23.jdk/Contents/Home/jmods \
+    --add-modules javafx.controls,javafx.fxml,javafx.graphics,javafx.base \
+    --output custom-runtime
+
+jpackage \
+    --input ../build \
+    --name LabTools \
+    --main-jar ../build/LabTools.jar \
+    --main-class LabTools \
+    --type app-image \
+    --icon ./resources/LabTools.icns \
+    --runtime-image custom-runtime \
+    --resource-dir ./resources \
+    --java-options "-Dprism.order=sw -Dprism.verbose=true"
+
+jpackage \
+    --input ../build \
+    --name LabTools \
+    --main-jar ../build/LabTools.jar \
+    --main-class LabTools \
+    --type app-image \
+    --icon ./resources/LabTools.icns \
+    --module-path /opt/javafx-sdk/javafx-sdk-23.0.1/lib \
+    --add-modules javafx.controls,javafx.fxml,javafx.graphics,javafx.base \
+    --resource-dir ./resources
+
+

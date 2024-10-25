@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "https://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+ <dict>
+  <key>LSMinimumSystemVersion</key>
+  <string>10.11</string>
+  <key>CFBundleDevelopmentRegion</key>
+  <string>English</string>
+  <key>CFBundleAllowMixedLocalizations</key>
+  <true/>
+  <key>CFBundleExecutable</key>
+  <string>LabTools</string>
+  <key>CFBundleIconFile</key>
+  <string>LabTools.icns</string>
+  <key>CFBundleIdentifier</key>
+  <string>LabTools</string>
+  <key>CFBundleInfoDictionaryVersion</key>
+  <string>6.0</string>
+  <key>CFBundleName</key>
+  <string>LabTools</string>
+  <key>CFBundlePackageType</key>
+  <string>APPL</string>
+  <key>CFBundleShortVersionString</key>
+  <string>1.0</string>
+  <key>CFBundleSignature</key>
+  <string>????</string>
+  <key>LSApplicationCategoryType</key>
+  <string>public.app-category.utilities</string>
+  <key>CFBundleVersion</key>
+  <string>1.0</string>
+  <key>NSHumanReadableCopyright</key>
+  <string>Copyright (C) 2024</string>
+  <key>NSHighResolutionCapable</key>
+  <string>true</string>
+  <key>NSMicrophoneUsageDescription</key>
+  <string>The application LabTools is requesting access to the microphone.</string>
+
+  <!-- Java-specific configuration -->
+  <key>Java</key>
+  <dict>
+    <key>JVMMainClassName</key>
+    <string>LabTools</string>
+    <key>JVMOptions</key>
+    <array>
+      <string>-Dfile.encoding=UTF-8</string>
+      <string>--module-path</string>
+      <string>/opt/javafx-sdk/javafx-sdk-23.0.1/lib</string>
+      <string>--add-modules</string>
+      <string>javafx.controls,javafx.fxml</string>
+    </array>
+  </dict>
+ </dict>
+</plist>

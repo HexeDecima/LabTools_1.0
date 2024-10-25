@@ -1,18 +1,259 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="LabTools:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="993bc7e8-47e7-4e95-b01d-8606a668e9bd" name="Changes" comment="Correcting the MF file.">
+    <list default="true" id="993bc7e8-47e7-4e95-b01d-8606a668e9bd" name="Changes" comment="Correcting the path to the icon file.">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/LabTools_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/LabTools.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CSVReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataPoint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/MacOS/LabTools" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/PkgInfo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/Resources/LabTools.icns" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/app/.jpackage.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/app/LabTools.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/app/LabTools.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/conf/jaxp-strict.properties.template" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/conf/jaxp.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/conf/net.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/conf/security/java.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/conf/security/java.security" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/conf/security/policy/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/conf/security/policy/limited/default_US_export.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/conf/security/policy/limited/default_local.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/conf/security/policy/limited/exempt_local.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/conf/security/policy/unlimited/default_US_export.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/conf/security/policy/unlimited/default_local.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/conf/sound.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/include/classfile_constants.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/include/darwin/jawt_md.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/include/darwin/jni_md.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/include/jawt.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/include/jni.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/include/jvmti.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/include/jvmticmlr.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/legal/java.base/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/legal/java.base/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/legal/java.base/aes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/legal/java.base/asm.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/legal/java.base/c-libutl.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/legal/java.base/cldr.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/legal/java.base/icu.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/legal/java.base/public_suffix.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/legal/java.base/siphash.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/legal/java.base/unicode.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/legal/java.base/zlib.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/legal/java.datatransfer/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/legal/java.datatransfer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/legal/java.desktop/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/legal/java.desktop/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/legal/java.desktop/colorimaging.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/legal/java.desktop/freetype.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/legal/java.desktop/giflib.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/legal/java.desktop/harfbuzz.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/legal/java.desktop/jpeg.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/legal/java.desktop/lcms.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/legal/java.desktop/libpng.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/legal/java.desktop/mesa3d.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/legal/java.desktop/pipewire.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/legal/java.desktop/xwd.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/legal/java.prefs/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/legal/java.prefs/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/legal/java.scripting/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/legal/java.scripting/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/legal/java.xml/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/legal/java.xml/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/legal/java.xml/bcel.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/legal/java.xml/dom.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/legal/java.xml/jcup.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/legal/java.xml/xalan.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/legal/java.xml/xerces.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/legal/jdk.unsupported/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/legal/jdk.unsupported/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/lib/classlist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/lib/fontconfig.bfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/lib/fontconfig.properties.src" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/lib/jrt-fs.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/lib/jspawnhelper" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/lib/jvm.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/lib/libawt.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/lib/libawt_lwawt.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/lib/libfontmanager.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/lib/libfreetype.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/lib/libjava.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/lib/libjavajpeg.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/lib/libjawt.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/lib/libjimage.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/lib/libjli.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/lib/libjsig.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/lib/libjsound.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/lib/liblcms.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/lib/libmlib_image.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/lib/libnet.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/lib/libnio.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/lib/libosx.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/lib/libosxapp.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/lib/libosxsecurity.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/lib/libosxui.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/lib/libprefs.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/lib/libsplashscreen.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/lib/libsyslookup.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/lib/libverify.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/lib/libzip.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/lib/modules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/lib/psfont.properties.ja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/lib/psfontj2d.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/lib/security/blocked.certs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/lib/security/cacerts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/lib/security/default.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/lib/security/public_suffix_list.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/lib/server/libjsig.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/lib/server/libjvm.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/lib/shaders.metallib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/lib/tzdb.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/man/man1/java.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/man/man1/jrunscript.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/man/man1/keytool.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Home/release" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/MacOS/libjli.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.app/Contents/runtime/Contents/_CodeSignature/CodeResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LabTools.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/conf/jaxp-strict.properties.template" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/conf/jaxp.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/conf/net.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/conf/security/java.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/conf/security/java.security" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/conf/security/policy/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/conf/security/policy/limited/default_US_export.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/conf/security/policy/limited/default_local.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/conf/security/policy/limited/exempt_local.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/conf/security/policy/unlimited/default_US_export.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/conf/security/policy/unlimited/default_local.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/conf/sound.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/include/classfile_constants.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/include/darwin/jawt_md.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/include/darwin/jni_md.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/include/jawt.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/include/jni.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/include/jvmti.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/include/jvmticmlr.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/legal/java.base/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/legal/java.base/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/legal/java.base/aes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/legal/java.base/asm.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/legal/java.base/c-libutl.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/legal/java.base/cldr.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/legal/java.base/icu.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/legal/java.base/public_suffix.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/legal/java.base/siphash.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/legal/java.base/unicode.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/legal/java.base/zlib.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/legal/java.datatransfer/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/legal/java.datatransfer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/legal/java.desktop/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/legal/java.desktop/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/legal/java.desktop/colorimaging.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/legal/java.desktop/freetype.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/legal/java.desktop/giflib.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/legal/java.desktop/harfbuzz.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/legal/java.desktop/jpeg.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/legal/java.desktop/lcms.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/legal/java.desktop/libpng.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/legal/java.desktop/mesa3d.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/legal/java.desktop/pipewire.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/legal/java.desktop/xwd.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/legal/java.prefs/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/legal/java.prefs/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/legal/java.scripting/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/legal/java.scripting/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/legal/java.xml/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/legal/java.xml/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/legal/java.xml/bcel.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/legal/java.xml/dom.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/legal/java.xml/jcup.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/legal/java.xml/xalan.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/legal/java.xml/xerces.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/legal/jdk.unsupported/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/legal/jdk.unsupported/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/lib/classlist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/lib/fontconfig.bfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/lib/fontconfig.properties.src" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/lib/jrt-fs.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/lib/jspawnhelper" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/lib/jvm.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/lib/libawt.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/lib/libawt_lwawt.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/lib/libfontmanager.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/lib/libfreetype.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/lib/libjava.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/lib/libjavajpeg.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/lib/libjawt.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/lib/libjimage.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/lib/libjli.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/lib/libjsig.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/lib/libjsound.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/lib/liblcms.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/lib/libmlib_image.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/lib/libnet.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/lib/libnio.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/lib/libosx.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/lib/libosxapp.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/lib/libosxsecurity.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/lib/libosxui.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/lib/libprefs.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/lib/libsplashscreen.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/lib/libsyslookup.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/lib/libverify.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/lib/libzip.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/lib/modules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/lib/psfont.properties.ja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/lib/psfontj2d.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/lib/security/blocked.certs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/lib/security/cacerts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/lib/security/default.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/lib/security/public_suffix_list.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/lib/server/libjsig.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/lib/server/libjvm.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/lib/shaders.metallib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/lib/tzdb.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/man/man1/java.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/man/man1/jrunscript.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/man/man1/keytool.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-runtime/release" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/Commands.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/LabTools.icns" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LabTools.jar" beforeDir="false" afterPath="$PROJECT_DIR$/LabTools.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/META-INF/MANIFEST.MF" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/LabTools.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LabTools.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
@@ -33,6 +274,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -47,20 +291,28 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.LabTools-conf.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LabTools-conf.executor&quot;: &quot;Debug&quot;,
     &quot;Application.LabTools.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.preview.features.used&quot;: &quot;true&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-21&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/alexandrazerner/Documents/Programming/Java/LabTools&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Global Libraries&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/resources" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="LabTools-conf" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="LabTools" />
@@ -112,13 +364,33 @@
       <option name="project" value="LOCAL" />
       <updated>1729792095038</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Correcting the path to the icon file.">
+      <option name="closed" value="true" />
+      <created>1729852130049</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729852130049</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Correcting the path to the icon file.">
+      <option name="closed" value="true" />
+      <created>1729852278673</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729852278673</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/src/LabTools.app/Contents/app" />
+    </ignored-roots>
     <MESSAGE value="Renaming Main.java to LabTools.java and deleting some unused files in the project dir." />
     <MESSAGE value="Correcting the MF file." />
-    <option name="LAST_COMMIT_MESSAGE" value="Correcting the MF file." />
+    <MESSAGE value="Correcting the path to the icon file." />
+    <option name="LAST_COMMIT_MESSAGE" value="Correcting the path to the icon file." />
   </component>
 </project>

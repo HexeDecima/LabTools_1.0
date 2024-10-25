@@ -27,6 +27,8 @@ import java.util.List;
 import java.util.Objects;
 import java.util.stream.Collectors;
 
+import static javafx.application.Application.launch;
+
 public class LabTools extends Application {
     // Class-level variables
     private BorderPane root; // The main layout
@@ -36,6 +38,10 @@ public class LabTools extends Application {
     @Override
     public void start(Stage primaryStage) {
         primaryStage.setTitle("LabTools - Vizualizace teploty a vlhkosti");
+
+        // Test
+        System.out.println("Current working directory: " + System.getProperty("user.dir"));
+        System.out.println("Classpath: " + System.getProperty("java.class.path"));
 
         // Set the application icon
         InputStream iconStream = getClass().getResourceAsStream("/production/LabTools/resources/LabTools.png");
@@ -301,3 +307,4 @@ public class LabTools extends Application {
         launch(args);
     }
 }
+
