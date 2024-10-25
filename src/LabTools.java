@@ -37,7 +37,7 @@ public class LabTools extends Application {
         primaryStage.setTitle("LabTools - Vizualizace teploty a vlhkosti");
 
         // Set the application icon
-        primaryStage.getIcons().add(new Image(Objects.requireNonNull(getClass().getResourceAsStream("/LabTools.png"))));
+        primaryStage.getIcons().add(new Image(Objects.requireNonNull(getClass().getResourceAsStream("/resources/LabTools.png"))));
 
         // Create the ArduinoData directory if it doesn't exist
         createArduinoDataDirectory();

@@ -4,38 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="993bc7e8-47e7-4e95-b01d-8606a668e9bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LabTools.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/META-INF/MANIFEST.MF" afterDir="false" />
+    <list default="true" id="993bc7e8-47e7-4e95-b01d-8606a668e9bd" name="Changes" comment="Correcting the MF file.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backup/CSVReader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backup/DataPoint.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backup/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backup/resources/LabTools.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LabTools.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LabTools.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LabTools.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/javafx-swt.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/javafx.base.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/javafx.controls.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/javafx.fxml.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/javafx.graphics.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/javafx.media.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/javafx.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/javafx.swing.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/javafx.web.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/libdecora_sse.dylib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/libfxplugins.dylib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/libglass.dylib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/libglib-lite.dylib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/libgstreamer-lite.dylib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/libjavafx_font.dylib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/libjavafx_iio.dylib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/libjfxmedia.dylib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/libjfxmedia_avf.dylib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/libjfxwebkit.dylib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/libprism_common.dylib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/libprism_es2.dylib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/libprism_sw.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabTools.jar" beforeDir="false" afterPath="$PROJECT_DIR$/LabTools.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LabTools.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LabTools.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,20 +15,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "HexeDecima"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;HexeDecima&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/HexeDecima/LabTools_1.0.git",
-    "accountId": "0cf1403b-1956-48b8-9891-b4d52e5785fa"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/HexeDecima/LabTools_1.0.git&quot;,
+    &quot;accountId&quot;: &quot;0cf1403b-1956-48b8-9891-b4d52e5785fa&quot;
   }
-}]]></component>
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -71,23 +44,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.LabTools-conf.executor": "Run",
-    "Application.LabTools.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "jdk.selected.JAVA_MODULE": "corretto-21",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/alexandrazerner/Documents/Programming/Java/LabTools",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.general"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.LabTools-conf.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LabTools.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-21&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/alexandrazerner/Documents/Programming/Java/LabTools&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="LabTools-conf" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="LabTools" />
@@ -107,9 +80,45 @@
       <option name="presentableId" value="Default" />
       <updated>1729704377668</updated>
     </task>
+    <task id="LOCAL-00001" summary="Renaming Main.java to LabTools.java and deleting some unused files in the project dir.">
+      <option name="closed" value="true" />
+      <created>1729784987151</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729784987151</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Renaming Main.java to LabTools.java and deleting some unused files in the project dir.">
+      <option name="closed" value="true" />
+      <created>1729785085524</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729785085524</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Correcting the MF file.">
+      <option name="closed" value="true" />
+      <created>1729791976623</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729791976623</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Correcting the MF file.">
+      <option name="closed" value="true" />
+      <created>1729792095038</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729792095038</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Renaming Main.java to LabTools.java and deleting some unused files in the project dir." />
+    <MESSAGE value="Correcting the MF file." />
+    <option name="LAST_COMMIT_MESSAGE" value="Correcting the MF file." />
   </component>
 </project>
