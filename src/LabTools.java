@@ -16,7 +16,6 @@ import javafx.scene.layout.HBox;
 import javafx.stage.Stage;
 
 import java.io.IOException;
-import java.io.InputStream;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.time.*;
@@ -44,12 +43,7 @@ public class LabTools extends Application {
         System.out.println("Classpath: " + System.getProperty("java.class.path"));
 
         // Set the application icon
-        InputStream iconStream = getClass().getResourceAsStream("/production/LabTools/resources/LabTools.png");
-        if (iconStream != null) {
-            primaryStage.getIcons().add(new Image(iconStream));
-        } else {
-            System.err.println("Icon resource not found: /production/LabTools/resources/LabTools.png");
-        }
+        primaryStage.getIcons().add(new Image(Objects.requireNonNull(getClass().getResourceAsStream("/resources/LabTools.png"))));
 
         // Create the ArduinoData directory if it doesn't exist
         createArduinoDataDirectory();
